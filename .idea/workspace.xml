@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11c8c6c-3874-4c85-b4ba-178043b16482" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/java/demo/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java/demo/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/demo/Demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584435963960</updated>
       <workItem from="1584435965538" duration="572000" />
+      <workItem from="1584437120418" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1584436234316</created>
